@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+  <html>
+   <head>
+     <title>The Cork Crew</title>
+     <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<header>
+<nav class=header>
+  <ul>
+    <li><a href=“#surfboard”>Surf Boards</a></li>
+     <li><a href=¨./rentaboard”>Rent a Board</a></li>
+     <li><a href=“./marketplace”>Market Place</a></li>
+     <li><a href=“./beaches”>Beaches</a></li>
+  </ul>
+</nav>
+</header>
+   <body>
+  <h1>The Cork Crew</h1>
+    <div id="introduction">
+      <h2>What is “The Cork Crew”</h2>
+        <p>The Cork Crew it aims to be a community for people who are trying to learn 			how to surf, or who already surf and want to stay in touch with other surfers and 			have feedback. The reality for many people in Australia is that we come alone, we 		start without friends, and through this website and the love of surfing or the mere 			fact of wanting to start can help us connect with more people involved in this sport, 		get advice to improve our practice, where to surf, understand the waves, get advice 		on which is the best option for a board, find boards and all the doubts that occur to 		us.</p>
+    </div>
+<div id=“comunity”>
+  <h2>Why the Cork</h2>
+    <p> To begin surfing, it's recommended to use large foam boards made of polyurethane 		or other highly buoyant elements, which also provide great stability, making it easier		to get started in the sport. Cork or “corcho” in Spanish, refers to the natural tissue 		that covers the trunk of a tree, and one of this material's characteristics and abilities 		is its buoyancy in the water. We like to call ourselves that because as soon as I 			decided to get into surfing, my friend, who already had experience, told me you 			should always start with a cork and dedicate hours to it, you don't need a 				board with great features to became a surfer, you just need your “corcho”, and want 	to surf. Hence the simplicity of cork to get started in this lifestyle and understand the 	values of surfing: wait for the wave, fight against them, and find the best of the sea, 		its calm and its bravery.</p>
+</div>
+<div id="surfboard">
+<h2>Surf Boards</h2>
+<h3>My first surfboard</h3>
+	<p>There are a multitude of board varieties (tow-in, fish, retro, shortboard, 			evolutionary, Malibu, gun, longboard, stand-up paddleboard, etc.) but for a begginer		as you, you shouldn't rack your brains too much, all you need is stability, It's not just 	a question of aesthetic or brand preferences, but rather a question of physics and 		ergonomics. <br><br>To find stability we need to find a relationship between your 		body, the board and the sea. We should look for a board whose length, width, and 		thickness are carefully related to the surfer's weight and height, thus providing an 		optimal balance between buoyancy, stability, and maneuverability. <br><br> 			<ul>
+		<li>Buoyancy: refers to a surfboard's ability to stay afloat and is directly 				related to the board's volume (liters).</li><br><br>
+		<li>Stability: a surfboard's stability is related to its ability to remain balanced, 			especially when executing maneuvers or surfing in variable wave conditions. 			Stability is intrinsically related to the board's width.</li><br><br>
+		<li>Maneuverability: relates to the board's responsiveness to the surfer's 				turning and directional actions. The board's length, shape, and rocker design 			are key factors in maneuverability.We must find a balance that 					suits our physical condition. If we have a board that's too big for our 				size, it will be difficult to control and maneuver. Conversely, if we were too 				small, it wouldn't float.</li><br><br>
+	</ul>
+<table> 
+<thead>
+<tr>
+<th>Balance</th>
+<th>Buoyancy</th>
+<th>Stability</th> 
+<th>Maneuverability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Higher</td>
+<td>Liters: Boards that make paddling and catching waves easier. Ideal for beginners or surfers looking for a board that's easy to handle in small waves.</td>
+<td>Inches: Boards that help beginners stay upright and make it easier to surf smaller or less powerful waves.</td>
+<td>Feet: Boards are easier to steer in big waves, but can be harder to maneuver in fast or tight breaks.</td>
+</tr>
+<tr>
+<td>Lower</td>
+<td>Liters: Boards that require more skill for paddling and catching waves. They are ideal for advanced surfers looking for greater sensitivity and control in larger waves.</td>
+<td>Pulgadas: tablas que aumentan la capacidad de respuesta y la facilidad para realizar maniobras complejas, adecuada para surfistas experimentados.</td>
+<td>Feet: Boards that allow for quick turns and aggressive maneuvers. They are preferred for technical and high-performance surfing in smaller waves or for performing tricks.</td>
+</tr>
+</tbody>
+</table>
+	<br><br>As well, as you may already know or have seen, there are foam boards 			and fiberglass boards, and you might be wondering which is the best option for your 	case? Well, I'll explain it to you below:</p>
+<h3>Fiberboard or Foamboard</h3>
+	<p>To find this stability we were talking about earlier, it is advisable to start with a 		foamboard, also known as a softboard, why? Because the buoyancy of this kind of 		boards will provide you with greater stability than fiberboards, this stability will make 	it easier for you to learn how to stand up, acquire a good rowing technique, improve 	the correct postures, and the entire learning process. Also, in your first steps as a 		surfer, you will spend more time under the board than on it, and it can often hit you. 		One advantage of a foam board is that the high-density polystyrene makes the 			impacts lighter, and thus avoiding damaging the board or harming yourself or 			another person nearby<br><br>Following on from what we've discussed, fiberglass 		boards provide less stability than foam boards, and it's advisable to make the switch		when your skills have developed sufficiently. This lack of stability makes the board 		more 	maneuverable and allows for easier turns, in addition to giving you greater 		speed.<br><br>But can I only spin on fiberboards? The answer is no, and that's 			where board size comes into play.</p>
+<h3>What size do I need?</h3>
+<p>Below we provide a guideline table of boards based on the surfer's physical condition. These measurements may vary depending on the type of board, riding style, wave conditions, and other factors.<br><br>To determine which board we need, we'll measure it using three main dimensions: length (expressed in feet), width-thickness (expressed in inches), and volume (expressed in liters). <br><br>Let's analyze all these units of measurement below: 
+<ul>
+<li>Length (L): This is measured from the tip (nose) to the tail of the board. The length will influence the board's stability and maneuverability. Longer boards offer more stability, while shorter ones are more maneuverable.</li><br><br>
+<li>Width (W) and Thickness: Width is the widest distance of the board, measured from side to side. A greater width offers more stability, which is especially useful for beginners and vice versa. On the other hand, thickness is the distance from the top (deck) to the bottom (bottom) of the board. Thickness determines how much floatation the board will have. Thicker surfers also benefit from more buoyancy, which is beneficial for heavier surfers or smaller waves.</li><br><br>
+<li>Volume: Expressed in liters, this is another crucial factor, as it combines length, width, and thickness, giving a general idea of ​​the board's buoyancy. Greater volume means more buoyancy, which makes paddling and catching waves easier.</li><br><br>
+</ul></p>
+<table>
+<thead>
+<tr>
+<th scope=“col”>Surfer Weight (kg)</th>
+<th scope=“col”>Surfer Heigth (cm)</th>
+<th scope=“col”>Table Length (feet</th>
+<th scope=“col”>Table Width (inches)</th>
+<th scope=“col”>Volume liters table (liters)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>45-55kg</td>
+<td>Until 160cm</td>
+<td>6’6” - 7’2”</td>
+<td>18” - 20”</td>
+<td>28 - 35</td>
+</tr>
+<tr>
+<td>56-65kg</td>
+<td>161 - 170cm</td>
+<td>7’0” - 7´6”</td>
+<td>19” - 21”</td>
+<td>32 - 40</td>
+</tr>
+<tr>
+<td>66-75kg</td>
+<td>171 - 180cm</td>
+<td>7´6” - 8´0”</td>
+<td>20” - 22”</td>
+<td>36 - 42</td>
+</tr>
+<tr>
+<td>76-85kg</td>
+<td>181 - 190cm</td>
+<td>8´0” - 8´6”</td>
+<td>20” - 22”</td>
+<td>38 - 44</td>
+</tr>
+<tr>
+<td>86-95kg</td>
+<td>More than 191cm</td>
+<td>8´6” - 9´0”</td>
+<td>21” - 23”</td>
+<td>40 -46</td>
+</tr>
+</tbody>
+</table>
+</div>
+  </body>
+<footer>
+    <h3>Thanks for taking our survey!</h3>
+</footer>
+</html>
